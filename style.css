@@ -86,6 +86,14 @@ h2 {
   background: #555;
 }
 
+.container-c {
+  text-align: center;
+}
+
+.container-c a {
+  margin: 0px 5px;
+}
+
 /* Footer */
 footer {
   text-align: center;
